@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Optima", sans-serif;
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}

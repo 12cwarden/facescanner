@@ -1,0 +1,8 @@
+.form {
+  width: 1000px;
+  background-color: #e5e5f7;
+  opacity: 0.8;
+  background-image: linear-gradient(#09203f 1px, transparent 1px),
+    linear-gradient(to right, #09203f 1px, #e5e5f7 1px);
+  background-size: 20px 21px;
+}
